@@ -1,0 +1,1 @@
+http://localhost:8080/i-pls_3D/chart/checkCharts?taskId=2&startDate=2018-01-30&endDate=2018-01-30
